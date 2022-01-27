@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Вячеслав\\source\\repos\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj": {}
+    "G:\\Game\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Вячеслав\\source\\repos\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj": {
+    "G:\\Game\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Вячеслав\\source\\repos\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj",
+        "projectUniqueName": "G:\\Game\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj",
         "projectName": "Task_2.2._Game_Development",
-        "projectPath": "C:\\Users\\Вячеслав\\source\\repos\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj",
+        "projectPath": "G:\\Game\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\Task_2.2._Game_Development.csproj",
         "packagesPath": "C:\\Users\\Вячеслав\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Вячеслав\\source\\repos\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\obj\\",
+        "outputPath": "G:\\Game\\Task_2.2._Game_Development\\Task_2.2._Game_Development\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Вячеслав\\AppData\\Roaming\\NuGet\\NuGet.Config",

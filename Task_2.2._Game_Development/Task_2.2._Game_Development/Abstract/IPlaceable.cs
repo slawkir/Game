@@ -10,6 +10,6 @@ namespace Task_2._2._Game_Development
     {
         //свойства в методах лучше делать тоьлко с get (только возвращает значение)
         //свойство, которое можно переприсвоить, лучше для abstract class
-        public Point Psoition { get; }
+        public Point Position { get; }
     }
 }
